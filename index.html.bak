@@ -1,0 +1,229 @@
+<!doctype html>
+<html class="js" lang="en">
+<script src="https://westmetrotransitstatus.statuspage.io/embed/script.js"></script>
+
+
+<head>
+  <meta charset="utf-8">
+  <title>Home | West Metro</title>
+  <meta name="description" content="Welcome to West Metro, a roblox fictional transit game aim to let everyone transport one from another.">
+
+  <meta property="og:title" content="Home | West Metro">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://westmetroroblox.github.io">
+  <meta name="og:description" content="Welcome to West Metro. A Roblox Automatic Transit game aiming to move everyone from one place to another. ">
+  <meta property="og:image" content="https://tr.rbxcdn.com/daf920f7572742f226ac4914496fe01e/150/150/Image/Png">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="favicon.png">
+  <!-- Place favicon.ico in the root directory -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nsw-design-system@3/dist/css/main.css">
+  <link rel="stylesheet" href="css/wm.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  
+  <div class="nsw-global-alert nsw-global-alert--critical js-global-alert" role="alert">
+  <div class="nsw-global-alert__wrapper">
+    <div class="nsw-global-alert__content">
+      <div class="nsw-global-alert__title">Weather & Track Emergency</div>
+      <p>Catastrophic weather conditions are forecast this month for outdoor areas of Transportation Academy, Downtown Line is temporarily suspended meanwhile the heavy weather is ongoing during the season. Please seek alternative routes. <a href="https://westmetrotransitstatus.statuspage.io/">Read all Service Updates</a></p>
+    </div>
+    <button class="nsw-icon-button js-close-alert" type="button" aria-expanded="true">
+      <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">close</span>
+      <span class="sr-only">Close message</span>
+    </button>
+  </div>
+</div>
+
+  <header class="nsw-header">
+    <div class="nsw-header__container">
+      <div class="nsw-header__inner">
+        <div class="nsw-header__main">
+          <div class="nsw-header__waratah">
+            <a href="./index.html">
+              <img src="favicon.ico" width="64px" height="64px"/>
+              <span class="sr-only">West Metro</span>
+            </a>
+          </div>
+          <div class="nsw-header__name">
+            <div class="nsw-header__title">West Metro</div>
+          </div>
+        </div>
+        <div class="nsw-header__menu">
+          <button type="button" class="js-open-nav" aria-expanded="false" aria-controls="main-nav">
+            <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">menu</span>
+            <span><span class="sr-only">Open</span> Menu</span>
+          </button>
+        </div>
+      </div>
+  </header>
+  <nav class="nsw-main-nav" id="main-nav" aria-label="Main menu">
+    <div class="nsw-main-nav__header">
+      <div class="nsw-main-nav__title">Menu</div>
+      <button class="nsw-icon-button js-close-nav" type="button" aria-expanded="true">
+        <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">close</span>
+        <span class="sr-only">Close Menu</span>
+      </button>
+    </div>
+    <ul class="nsw-main-nav__list">
+      <li>
+        <a href="./index.html">
+          <span>Home</span>
+        </a>    </li>
+      <li>
+        <a href="./introduction.html">
+          <span>Introduction</span>
+          </a>    </li>
+      <li>
+        <a href="./history.html">
+          <span>History</span>
+        </a>    </li>
+      <li>
+        <a href="./transit.html" target="_blank" rel="noopener noreferrer">
+          <span>West Metro Transit System</span>
+        </a>    </li>
+      <li>
+          <a href="./updatelog.html" target="_blank" rel="noopener noreferrer">
+            <span>West Metro Update Logs</span>
+          </a>    </li>
+      <li>
+          <a href="./gallery.html" target="_blank" rel="noopener noreferrer">
+            <span>Image Gallery Hub</span>
+          </a>    </li>
+      <li>
+        <a href="./interactivemap.html" target="_blank" rel="noopener noreferrer">
+          <span>Interactive Map</span>
+        </a>    </li>
+      <li>
+        
+    </ul>
+  </nav>
+</head>
+
+<body>
+
+  <!-- Add your site or application content here -->
+  <div class="nsw-hero-banner nsw-hero-banner--dark">
+    <div class="nsw-hero-banner__container">
+      <div class="nsw-hero-banner__wrapper">
+        <div class="nsw-hero-banner__content">
+          <h1>Welcome to West Metro.</h1>
+          <p class="nsw-intro">A Roblox Automatic Transit game aiming to move everyone from one place to another.</p>
+          <p class="nsw-intro">Play the game now on Roblox on Mobile, Tablet or PC. (Console not supported)</p>
+          <a href="https://www.roblox.com/groups/8471677/West-Metro#!/about" class="nsw-button nsw-button--white" target="_blank" rel="noreferrer noopener">Roblox Group Link</a></p>
+          <a href="https://discord.gg/ZprRZvRM6J" class="nsw-button nsw-button--white" target="_blank" rel="noreferrer noopener">Join our Discord Server</a></p>
+        </div>
+        <div class="nsw-hero-banner__box">
+          <img class="nsw-hero-banner__image" src="https://tr.rbxcdn.com/b08d62fb110e9c176f76a0be516b0cf5/768/432/Image/Png" alt="Image of the West Metro Brown Line." />
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="nsw-m-right-md nsw-m-left-md">
+  <div class="nsw-grid">
+    <div class="nsw-col nsw-col-md-6 nsw-col-lg-4">
+      <div class="nsw-card">
+        <div class="nsw-card__image">
+          <img src="https://cdn.discordapp.com/attachments/914473859275706418/1093216545741746297/image.png" alt="Basin Valley Metro Station (ORANGE LINE)">
+        </div>
+        <div class="nsw-card__content">
+          <div class="nsw-card__title">
+            <a href="./introduction.html">Introduction</a>
+          </div>
+          <div class="nsw-card__copy">New to West Metro? Find out what you can do on West Metro!  </div>
+          <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">east</span>
+        </div>
+      </div>
+    </div>
+    <div class="nsw-col nsw-col-md-6 nsw-col-lg-4">
+      <div class="nsw-card">
+        <div class="nsw-card__image">
+          <img src="https://cdn.discordapp.com/attachments/914473859275706418/1093217216608084058/image.png" alt="Luminous Oasis Metro Station (ORANGE LINE)">
+        </div>
+        <div class="nsw-card__content">
+          <div class="nsw-card__title">
+            <a href="./history.html">History</a>
+          </div>
+          <div class="nsw-card__copy">Learn about the history of ATO about West Metro.</div>
+          <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">east</span>
+        </div>
+      </div>
+    </div>
+    <div class="nsw-col nsw-col-md-6 nsw-col-lg-4">
+      <div class="nsw-card">
+        <div class="nsw-card__image">
+          <img src="https://cdn.discordapp.com/attachments/973257234786185216/1058506691580264508/image.png" alt="Train at Blossom Park Sidings">
+        </div>
+        <div class="nsw-card__content">
+          <div class="nsw-card__title">
+            <a href="./history.html">West Metro Transit System</a>
+          </div>
+          <div class="nsw-card__copy">Read the current train status, the trip planner, and future plans of West Metro Transit.</div>
+          <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">east</span>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+  <h1>Quick Links</h1>
+  <div class="nsw-grid">
+    <div class="nsw-col nsw-col-md-6 nsw-col-lg-4">
+      <div class="nsw-card">
+        <div class="nsw-card__content">
+          <div class="nsw-card__title">
+            <a href="./appeals.html" target="_blank" rel="noopener noreferrer">West Metro Ban Appeals</a>
+          </div>
+          <div class="nsw-card__copy">If you have been banned from West Metro, either yourself or your group, you may appeal it here.</div>
+          <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">east</span>
+        </div>
+      </div>
+    </div>
+    <div class="nsw-col nsw-col-md-6 nsw-col-lg-4">
+      <div class="nsw-card">
+        <div class="nsw-card__content">
+          <div class="nsw-card__title">
+            <a href="https://www.roblox.com/games/6446187200/READ-DESC-Application-Centre" target="_blank" rel="noopener noreferrer">Staff Application Hub</a>
+          </div>
+          <div class="nsw-card__copy">Wish to work in West Metro as a Passenger Service or Moderator? Apply in the game.</div>
+          <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">east</span>
+        </div>
+      </div>
+    </div>
+    <div class="nsw-col nsw-col-md-6 nsw-col-lg-4">
+      <div class="nsw-card">
+        <div class="nsw-card__content">
+          <div class="nsw-card__title">
+            <a href="./credits.html" target="_blank" rel="noopener noreferrer">Credits & Supporters</a>
+          </div>
+          <div class="nsw-card__copy">Take a look at who has worked in West Metro, contributed and what they've done in the past that helped us reach this milestone!</div>
+          <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">east</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  <br>
+<script src="https://cdn.jsdelivr.net/npm/nsw-design-system@3/dist/js/main.min.js"></script>
+<script>window.NSW.initSite()</script>
+</body>
+
+<footer class="nsw-footer nsw-footer--dark">
+  <div class="nsw-footer__lower">
+    <div class="nsw-container">
+      <hr>
+      <ul>
+        <li><a href="https://discord.gg/ZprRZvRM6J" target="_blank" rel="noopener noreferrer">Discord Server</a></li>
+        <li><a href="./credits.html">Credits</a></li>
+      </ul>
+      <div class="nsw-footer__info">
+        <div class="nsw-footer__copyright">Copyright © West Metro</div>
+        <div class="nsw-footer__copyright">Website Structure idea from Harlon City Server</div>
+        <div class="nsw-footer__built">Based on the <a href="https://github.com/digitalnsw/nsw-design-system" target="_blank" rel="noopener noreferrer">NSW Design System</a></div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</html>
